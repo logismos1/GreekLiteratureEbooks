@@ -8,7 +8,7 @@ Classical Greek literature compiled from PerseusDL repository. More information 
 
 More information in the About section.
 
-Available e-books in EPUB format:
+Available e-books in EPUB format (at [https://github.com/logismos1/GreekLiteratureEbooks](https://github.com/logismos1/GreekLiteratureEbooks)):
 
 | Author | Work | PerseusDL URN | Download|
 |-------|--------|---------|--------|
